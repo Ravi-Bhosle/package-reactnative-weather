@@ -8,15 +8,6 @@ This is weather module to help us monitoring weather
 npm install package-reactnative-weather
 ```
 
-## Usage
-
-```js
-import { multiply } from "package-reactnative-weather";
-
-// ...
-
-const result = await multiply(3, 7);
-```
 
 ## Contributing
 
